@@ -30,13 +30,3 @@
   
 <br>
 <br>
-  <br>
-  
-[![Redx1t's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=redx1t&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Redx1t's github stats](https://github-readme-stats.vercel.app/api?username=redx1t&show_icons=true&theme=tokyonight) | ![Redx1t GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redx1t&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redx1t&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=redx1t&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
-<br>
