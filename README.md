@@ -1,4 +1,4 @@
-<h1> Hello < Friend/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello < Friend/ >! </h1>
 <p align='center'>
 </p>
 
@@ -12,13 +12,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working at Nodulas and doing freelance through 4m Consulting
+- 🔭 Proficient in JS, PHP, Flutter, Java, Python, React & Next. 
   
 - 🌱 I’m currently learning Rust, Golang
   
 - 👯 I’m open to collaboration
   
-- 💬 Ask me about PHP, JavaScript, TypeScript
+- 💬 Ask me about PHP, JavaScript, TypeScript. Chat me up on the links below
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
