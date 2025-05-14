@@ -32,7 +32,7 @@ I’ve led engineering efforts powering over 1 million daily transactions and en
 ### 🌐 Find Me Online
 - 💼 [LinkedIn](https://linkedin.com/in/muthomi-kathurima)
 - 🌍 [Portfolio](https://muthomikathurima.com)
-- 💡 [Pub.dev Plugin](https://pub.dev/packages/flutter_mpesa_stk)
+- 💡 [MPESA STK Flutter Plugin](https://pub.dev/packages/flutter_mpesa_stk)
 - 💬 victormuthomik@gmail.com
 
 ---
