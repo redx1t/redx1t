@@ -2,8 +2,6 @@
 
 🚀 Senior Software Engineer passionate about building scalable, impactful software for social good.
 
-I’ve led engineering efforts powering over 1 million daily transactions and enabling access to over 500,000 meals per day through platforms like Tap2Eat at Food for Education.
-
 ---
 
 ### 🔧 Tech Focus
